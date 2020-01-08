@@ -1,8 +1,0 @@
-Filesystem            Size  Used Avail Use% Mounted on
-C:/Program Files/Git  100G   20G   80G  21% /
-D:                    4.6G  4.6G     0 100% /d
-
-Filesystem           Type  Size  Used Avail Use% Mounted on
-C:/Program Files/Git ntfs  100G   20G   80G  21% /
-D:                   udf   4.6G  4.6G     0 100% /d
-2020年01月 7日 17:56:54
